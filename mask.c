@@ -1,4 +1,4 @@
-/* This is a piece of code to remove frmo the input, characters in a string called the mask string 
+/* This is a piece of code to remove from the input, characters in a string called the mask string 
 
 
 Author : Anant Chowdhary
