@@ -111,8 +111,7 @@ void printSpiral(struct TreeNode* root)
 
 	while(topEven!=NULL || topOdd!=NULL) 
 	{
-		//if(topEven!=NULL) {printf("TopEven is NOT NULL %d\n",topEven->node->data);}
-		//if(topOdd!=NULL)  {printf("TopOdd is NOT NULL %d\n",topOdd->node->data);}
+		
 
 		while(level%2==0 && topEven!=NULL) 	//Even Level , push right element first and then left element 
 						//and pop element from stack. Do this till empty stack ==> EvenStack
