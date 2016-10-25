@@ -1,3 +1,20 @@
+/*This is a program to traverse a tree in spiral order
+
+For instance if the tree is : 1
+							 /	\
+						    2     3
+						   / \   / \
+						  4	  5  6  7
+
+						The spiral traversal is :
+1
+2 3
+7 6 5 4	
+
+Author : Anant Chowdhary
+		*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 
