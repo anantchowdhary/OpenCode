@@ -20,7 +20,7 @@
 				
 				
 				str[j] = '\0';
-				
+				return;
 				
 				
 			}
@@ -78,9 +78,11 @@ int main()
 {
 	
 
-	char str[] = "abccdrrfeg";
+	char str[] = "abcddcba";
 
 
+	removeDups(str,0,0,0);
+	removeDups(str,0,0,0);
 	removeDups(str,0,0,0);
 	removeDups(str,0,0,0);
 	
