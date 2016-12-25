@@ -1,6 +1,6 @@
 
-public class LinkedListCollision {
-
+public class LinkedListCycleDetection {
+/*Code to detect where a cycle begins */
 	
 	public static void main(String[] ars) 
 	{
